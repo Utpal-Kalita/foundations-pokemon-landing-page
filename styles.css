@@ -41,7 +41,7 @@ body {
     justify-content: center;
     align-items: center;
     
-    padding: 20px 80px;
+    padding: 40px 20px;
     background-color: #2a75bb;
     color: white;
 }
@@ -110,6 +110,7 @@ p.main {
     font-size: 60px;
   font-family:fantasy;
 }
+
 
 
 .cta-container{ 
