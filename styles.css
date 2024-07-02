@@ -41,7 +41,7 @@ body {
     justify-content: center;
     align-items: center;
     
-    padding: 40px 20px;
+    padding: 20px 80px;
     background-color: #2a75bb;
     color: white;
 }
@@ -111,12 +111,6 @@ p.main {
   font-family:fantasy;
 }
 
-p.author {
-    display: flex;
-    
-    font-size: 30px;
-    justify-content: flex-end;
-}
 
 .cta-container{ 
     padding: 40px 20px;
